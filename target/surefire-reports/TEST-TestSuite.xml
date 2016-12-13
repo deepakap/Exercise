@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="6" failures="0" name="TestSuite" time="1.56" errors="0" skipped="0">
+<testsuite tests="6" failures="0" name="TestSuite" time="2.052" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib"/>
     <property name="java.vm.version" value="25.60-b23"/>
     <property name="gopherProxySet" value="false"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="/Users/deepakkumar/SimulatorWorkspace/Exercise"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/deepakkumar/builds/stringProblem"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=":"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/Users/deepakkumar/SimulatorWorkspace/Exercise"/>
+    <property name="user.dir" value="/Users/deepakkumar/builds/stringProblem"/>
     <property name="java.runtime.version" value="1.8.0_60-b27"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/endorsed"/>
@@ -64,8 +64,8 @@
   </properties>
   <testcase classname="com.app.work.StringTest" name="_testStringReplacemt" time="0.005"/>
   <testcase classname="com.app.work.StringTest" name="testStringReplacemtWithJava" time="0"/>
-  <testcase classname="com.app.work.TestiTunesSearchApi" name="_testSearchTerm" time="1.02"/>
-  <testcase classname="com.app.work.TestiTunesSearchApi" name="_testSearchTermCountry" time="0.111"/>
-  <testcase classname="com.app.work.TestiTunesSearchApi" name="_testSearchTermCountryMedia" time="0.296"/>
-  <testcase classname="com.app.work.TestiTunesSearchApi" name="_testSearchTermCountryMediaWithLimit" time="0.128"/>
+  <testcase classname="com.app.work.TestiTunesSearchApi" name="_testSearchTerm" time="1.511"/>
+  <testcase classname="com.app.work.TestiTunesSearchApi" name="_testSearchTermCountry" time="0.183"/>
+  <testcase classname="com.app.work.TestiTunesSearchApi" name="_testSearchTermCountryMedia" time="0.178"/>
+  <testcase classname="com.app.work.TestiTunesSearchApi" name="_testSearchTermCountryMediaWithLimit" time="0.175"/>
 </testsuite>
